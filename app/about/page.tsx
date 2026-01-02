@@ -35,7 +35,7 @@ export default function AboutPage() {
       title: "Software Engineer",
       experience: "5+ years",
       image: "/images/team/usman-ibrahim.jpg",
-      bio: "Usman Ibrahim is the visionary Founder and Chief Executive Officer of Nexora Technologies. As an accomplished software engineer with a deep passion for innovation and technological excellence, he leads the company's strategic direction and product development initiatives. With strong leadership capabilities and a proven track record in technology-driven solutions, Usman coordinates the talented team to deliver high-quality, future-ready digital products that exceed client expectations. His engineering mindset and commitment to excellence shape Nexora's culture of innovation.",
+      bio: "Usman Ibrahim is the visionary Founder and Chief Executive Officer of Nexora Technologies. He is a passionate Software Engineer specializing in Flutter development and Artificial Intelligence. With extensive expertise in building beautiful, high-performance cross-platform mobile applications using Flutter and Dart, combined with his knowledge of AI/ML technologies, Usman leads the company's innovation initiatives. His technical excellence in mobile development and AI solutions, combined with strategic leadership, drives Nexora's mission to deliver cutting-edge technology solutions.",
     },
     {
       name: "Ali Tukur Muhammad",
